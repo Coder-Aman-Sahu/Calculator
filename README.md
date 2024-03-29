@@ -11,7 +11,6 @@ Check out the calculator in action here: [Live Demo](https://coder-aman-sahu.git
     <img src="https://github.com/Coder-Aman-Sahu/Calculator/assets/113002116/f4ac6a75-079a-42c6-ac3a-62964a879506" alt="Calculator Screenshot" width="240">
   </div>
   <div style="flex: 2; padding-left: 20px;">
-    Here is the text that goes alongside the image. You can add more description here, and format it as you like using markdown or HTML.
   </div>
 </div>
 ## Project Overview
