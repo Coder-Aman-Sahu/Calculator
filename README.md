@@ -33,4 +33,4 @@ To use the calculator, simply clone the repository and open the `index.html` fil
 ```bash
 git clone https://github.com/Coder-Aman-Sahu/Calculator.git
 cd Calculator
-open index.html
+open>>index.html
